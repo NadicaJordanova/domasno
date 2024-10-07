@@ -5,3 +5,4 @@ linija2
 linija3
 ...
 implementacija na tekst 1
+popravka na bug
