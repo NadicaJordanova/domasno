@@ -4,3 +4,4 @@ linija1
 linija2
 linija3
 ...
+implementacija na tekst 1
